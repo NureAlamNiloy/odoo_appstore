@@ -21,7 +21,7 @@
         "views/buyer_domain.xml",
         "views/releted_user_domain.xml",
     ],
-    'images': ["licence_barrier/static/banner.png"],
+    'images': ["license_barrier/static/banner.png"],
     'demo': [],
     'qweb': [],
     'installable': True,
