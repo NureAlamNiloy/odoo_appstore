@@ -12,7 +12,7 @@
     """,
 
 
-    'author': "Bdcalling IT Ltd.   Nure Alam Niloy",
+    'author': "Bdcalling IT Ltd.,  Nure Alam Niloy",
     'maintainer': "Nure Alam Niloy",
     'website': "https://www.linkedin.com/in/nurealamniloy/",
 
